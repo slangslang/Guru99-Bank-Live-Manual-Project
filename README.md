@@ -51,7 +51,7 @@ The **Guru99 Bank** project aims to provide net banking facilities to its custom
 Maintained and updated change logs throughout the testing process to document any modifications and the status of test cases and defects.
 
 ## 🔗 Google Sheets
-You can view all my work, including test cases and bug tracking, in my google drive folder below:   
+You can view all my work, including test cases and bug tracking, in my Google Drive folder below:   
 
 [![Test Cases](https://img.shields.io/badge/Google-Drive-grey?style=for-the-badge&logo=googledrive&color=%234285F4)](https://drive.google.com/drive/folders/1s6Fo66cnrMNl_ePKBKb46QKLINSx48nY?usp=drive_link)
 
