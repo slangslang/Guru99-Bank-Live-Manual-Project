@@ -4,7 +4,7 @@
 Special thanks to [Guru99](https://www.guru99.com/) for providing this free project! If you’re interested in trying it out for yourself, check it out [here](https://www.guru99.com/live-testing-project.html).
 
 ## 📖 Overview
-This project focuses on the testing and quality assurance of the **Application Under Test (AUT)** for a banking website. Our goal was to ensure all functionalities meet the specified requirements and deliver a bug-free product.
+This project focuses on the testing and quality assurance of the **Application Under Test (AUT)** for a banking website. Our goal was to ensure all functionalities meet the specified requirements while striving to deliver a bug-free product.
 
 ## 🎥 Project Demo
 Check out this demo showcasing a part of the project:
