@@ -21,7 +21,7 @@ Check out this demo showcasing a part of the project:
 ![Mockup](https://github.com/slangslang/Guru99-Bank-Live-Manual-Project/blob/main/Mockup%20imgs/mockup_img4.png)   
 *Mockup provided by the clients' designers during v1 phase of website*
 
-[Back to top](#md#%EF%B8%8F-mockups)
+[Back to top](#%EF%B8%8F-mockups)
 
 </details>
 
