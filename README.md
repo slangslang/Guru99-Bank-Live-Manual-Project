@@ -12,7 +12,7 @@ Check out this demo showcasing a part of the project:
 *(Add a brief description of what the demo illustrates.)*
 
 ## 🖼️ Mockups
-![Mockup](link_to_mockup_image)  
+![Mockup](https://github.com/slangslang/Guru99-Bank-Live-Manual-Project/blob/main/Mockups.pdf)  
 *Mockup provided by the clients' designers during v1 phase of website*
 
 ## 🎯 Project Background
