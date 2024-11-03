@@ -12,8 +12,18 @@ Check out this demo showcasing a part of the project:
 *(Add a brief description of what the demo illustrates.)*
 
 ## 🖼️ Mockups
-![Mockup](https://github.com/slangslang/Guru99-Bank-Live-Manual-Project/blob/main/Mockups.pdf)  
+<details>
+<summary>Preview</summary>
+  
+![Mockup](https://github.com/slangslang/Guru99-Bank-Live-Manual-Project/blob/main/Mockup%20imgs/mockup_img1.png)
+![Mockup](https://github.com/slangslang/Guru99-Bank-Live-Manual-Project/blob/main/Mockup%20imgs/mockup_img2.png)
+![Mockup](https://github.com/slangslang/Guru99-Bank-Live-Manual-Project/blob/main/Mockup%20imgs/mockup_img3.png)   
+![Mockup](https://github.com/slangslang/Guru99-Bank-Live-Manual-Project/blob/main/Mockup%20imgs/mockup_img4.png)   
 *Mockup provided by the clients' designers during v1 phase of website*
+
+[Back to top](#md#%EF%B8%8F-mockups)
+
+</details>
 
 ## 🎯 Project Background
 The **Guru99 Bank** project aims to provide net banking facilities to its customers.
