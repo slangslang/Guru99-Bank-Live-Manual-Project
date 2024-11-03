@@ -7,9 +7,10 @@ Special thanks to [Guru99](https://www.guru99.com/) for providing this free proj
 This project focuses on the testing and quality assurance of the **Application Under Test (AUT)** for a banking website. Our goal was to ensure all functionalities meet the specified requirements and deliver a bug-free product.
 
 ## 🎥 Project Demo
-Check out this demo showcasing a part of the project:  
-![Demo](link_to_video_or_gif)  
-*(Add a brief description of what the demo illustrates.)*
+Check out this demo showcasing a part of the project:
+
+![Demo](https://github.com/slangslang/Guru99-Bank-Live-Manual-Project/blob/main/Guru99%20Bank%20Project.gif)  
+*Performing some unit testing and documenting the results on one of the modules (Delete Account) for the AUT*
 
 ## 🖼️ Mockups
 <details>
@@ -19,7 +20,7 @@ Check out this demo showcasing a part of the project:
 ![Mockup](https://github.com/slangslang/Guru99-Bank-Live-Manual-Project/blob/main/Mockup%20imgs/mockup_img2.png)
 ![Mockup](https://github.com/slangslang/Guru99-Bank-Live-Manual-Project/blob/main/Mockup%20imgs/mockup_img3.png)   
 ![Mockup](https://github.com/slangslang/Guru99-Bank-Live-Manual-Project/blob/main/Mockup%20imgs/mockup_img4.png)   
-*Mockup provided by the clients' designers during v1 phase of website*
+*Mockup provided by the clients' designers during v1 phase of website from Guru99*
 
 [Back to top](#%EF%B8%8F-mockups)
 
