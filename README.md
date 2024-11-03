@@ -15,9 +15,10 @@ Check out this demo showcasing a part of the project:
 Utilized the Software Requirements Specification (SRS) document to align the testing process with various versions of the AUT. This ensured comprehensive coverage of functionalities across the application.
 
 ## 🔍 Testing Methodology
-- Created a **System Test Plan** outlining the testing strategy.
-- Performed **System Testing** to validate all system components' functionality.
-- Conducted **Integrated Testing** based on the integration test plan provided by the development team.
+- **Unit Testing**: Created and executed unit test cases to verify individual components' functionality and ensure they met the defined requirements before integration with other parts of the application.
+- **Integrated Testing**: Conducted integrated tests to ensure all components worked together seamlessly, following the integration test plan provided by the development team.
+- **System Test Plan**: Outlined the testing strategy for overall system validation.
+- **System Testing**: Performed testing to validate all system components' functionality.
 
 ## 📊 Test Cases and Execution
 - Collaborated with the development team to create test cases based on the upcoming modules of the banking site.
