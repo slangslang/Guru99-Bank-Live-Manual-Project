@@ -11,17 +11,25 @@ Check out this demo showcasing a part of the project:
 ![Demo](link_to_video_or_gif)  
 *(Add a brief description of what the demo illustrates.)*
 
+## 🖼️ Mockups
+![Mockup](link_to_mockup_image)  
+*Mockup provided by the dev team during v1 phase of website*
+
 ## 🎯 Project Background
-Utilized the Software Requirements Specification (SRS) document to align the testing process with various versions of the AUT. This ensured comprehensive coverage of functionalities across the application.
+The **Guru99 Bank** project aims to provide net banking facilities to its customers.
 
 ## 🔍 Testing Methodology
 - **Unit Testing**: Created and executed unit test cases to verify individual components' functionality and ensure they met the defined requirements before integration with other parts of the application.
 - **Integrated Testing**: Conducted integrated tests to ensure all components worked together seamlessly, following the integration test plan provided by the development team.
 - **System Test Plan**: Outlined the testing strategy for overall system validation.
-- **System Testing**: Performed testing to validate all system components' functionality.
+- **System Testing**: Performed testing to validate the complete and fully integrated functionality of the website.
 
 ## 📊 Test Cases and Execution
-- Collaborated with the development team to create test cases based on the upcoming modules of the banking site.
+- Collaborated with the development team, including:
+  - **Project Sponsor**
+  - **Lead QA Engineer**
+  - **Lead Software Engineer**
+- Utilized the SRS documentation provided by the project team to create test cases based on the upcoming modules and versions of the banking site. This ensured comprehensive coverage of functionalities across the application.
 - Developed and maintained test cases using **Google Sheets**.
 - Executed tests on the AUT and updated results in the test case sheet accordingly.
 - Ensured thorough retesting of all failed test cases and bug/defect resolutions in newer versions of the website.
@@ -29,20 +37,11 @@ Utilized the Software Requirements Specification (SRS) document to align the tes
 ## 🐞 Bug Tracking
 - Created a **bug tracker** within Google Sheets to document all bugs and defects found during testing, including those identified during exploratory testing.
 
-## 🔗 Integrated and System Testing
-- Executed integrated tests to ensure all components worked together seamlessly.
-- Followed the integration test plan provided by the development team for systematic validation.
-
 ## 📜 Change Logs
 Maintained and updated change logs throughout the testing process to document any modifications and the status of test cases and defects.
 
-## 🖼️ Mockups
-![Mockup](link_to_mockup_image)  
-*(Add a brief description of the mockup and its relevance to the project.)*
-
-## 🤝 Collaboration
-This project was a collaborative effort with the development team, ensuring clear communication and alignment on testing objectives and outcomes.
-
 ## 🔗 Google Sheets
-You can view all my work, including test cases and bug tracking, in my [Google Sheets](link_to_google_sheets).
+You can view all my work, including test cases and bug tracking, in my google drive folder below:   
+
+[![Test Cases](https://img.shields.io/badge/Google-Drive-grey?style=for-the-badge&logo=googledrive&color=%234285F4)](https://drive.google.com/drive/folders/1s6Fo66cnrMNl_ePKBKb46QKLINSx48nY?usp=drive_link)
 
