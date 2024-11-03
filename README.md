@@ -13,7 +13,7 @@ Check out this demo showcasing a part of the project:
 
 ## 🖼️ Mockups
 ![Mockup](link_to_mockup_image)  
-*Mockup provided by the dev team during v1 phase of website*
+*Mockup provided by the clients' designers during v1 phase of website*
 
 ## 🎯 Project Background
 The **Guru99 Bank** project aims to provide net banking facilities to its customers.
